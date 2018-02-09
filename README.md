@@ -1,6 +1,6 @@
 ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/Readme/Banner.png)
 
-# Rabbit House —— Duck的迷你博客
+# Rabbit House - Duck的迷你博客
 > 白天是咖啡厅，晚上是酒吧~  
 > 使用GitHub Issue的简单博客
 
@@ -10,7 +10,7 @@
 - 视频制作爱好者
 - Bilibili：[@Duck1998](https://space.bilibili.com/5245625/)
 
-## 坎巴拉太空计划-MOD大楼
+## 坎巴拉太空计划 - MOD大楼
 - WIP
 
 ## 最新文章
