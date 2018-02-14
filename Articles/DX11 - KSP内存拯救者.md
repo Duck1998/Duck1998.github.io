@@ -1,4 +1,4 @@
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Banner.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Banner.png)
 > *请问您今天要来点Oops吗？*
 
 ## 调用DX11以大幅降低KSP内存占用
@@ -21,24 +21,24 @@
 ### 效果展示
 #### KSP 1.3.1 原版未装MOD 最高画质
 ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_Menu.jpg)
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_Size.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_Size.png)
 
 默认使用**DX9**时，内存占用**2293MB**  
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_DX9.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_DX9.png)
 
 指定使用**DX11**时，内存占用**1211MB**，降低**47.2%**  
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_DX11.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Stock_DX11.png)
 
 *不够刺激？那我们来点认真的！*
 #### KSP 1.3.1 安装大量MOD 最高画质
 ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_Menu.jpg)
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_Size.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_Size.png)
 
 默认使用**DX9**时，内存占用**6887MB**  
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_DX9.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_DX9.png)
 
 指定使用**DX11**时，内存占用**4161MB**，降低**39.6%**  
-![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_DX11.jpg)
+![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Mod_DX11.png)
 
 ### 使用前提
 1. 电脑配备了支持DX11的**独立**显卡，显存建议至少为1GB
@@ -49,24 +49,24 @@
 ### 使用方法
 #### 如果使用Steam启动
 1. 在“库”中右键单击游戏，打开“属性”窗口  
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_1.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_1.png)
 2. 点击“设置启动选项”，在文本框中输入以下内容并确定：  
    *注意没有空格*  
    ```
    -force-d3d11
    ```
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_2.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_2.png)
 3. 使用Steam启动时即可调用DX11，选择“Launch KSP (64-bit)”以使用64位客户端  
    *如使用32位操作系统，则保持默认*  
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_3.jpg)  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_3.png)  
    **注意：仅当在游戏页面点击“开始”才会出现此菜单，否则均默认启动32位客户端**
 
 #### 如果不使用Steam启动
 1. 游戏安装目录下找到“KSP_x64.exe”，创建一个快捷方式。这里以创建桌面快捷方式为例  
    *如使用32位操作系统，则对应“KSP.exe”*  
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_1.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_1.png)
 2. 右键单击刚刚创建的快捷方式，打开“属性”窗口  
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_2.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_2.png)
 3. 找到“目标”文本框，从最后添加以下内容并确定：  
    *注意开头的空格*  
    ```
@@ -80,7 +80,7 @@
    ```
    D:\KSP\KSP1310\KSP_x64.exe -force-d3d11
    ```
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_3.jpg)  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/NonSteam_3.png)  
 
 4. 使用该快捷方式启动即可调用DX11
 
@@ -88,7 +88,7 @@
 #### 确认游戏成功调用DX11
 - 启动游戏后，打开游戏安装目录，找到KSP.log  
   如果有“Direct3D 11.0”字样，则成功调用DX11
-  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Log.jpg)
+  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Log.png)
 - ~~观察游戏的内存占用变化，明显减少则成功调用DX11~~（废话）
 
 #### 强制Steam默认启动64位客户端同时调用DX11
@@ -97,12 +97,12 @@
 > - 不使用Steam启动就无法积累Steam游戏时长，也不能使用Steam游戏内覆盖功能
 
 1. 在游戏属性中，打开“本地文件”选项卡，点击“浏览本地文件”  
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv1.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv1.png)
 2. 点击箭头所指位置，获得游戏安装路径，全选并复制。例如这里是：  
    ```
    D:\SteamLibrary\steamapps\common\Kerbal Space Program
    ```
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv2.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv2.png)
 3. 在游戏属性中，打开“常规”选项卡，点击“设置启动选项”，在文本框中输入以下内容并确定：  
    *注意英文引号与空格*  
    ```
@@ -112,7 +112,7 @@
    ```
    "D:\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_x64.exe" %command% -force-d3d11
    ```
-   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv3.jpg)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Steam_Adv3.png)
 4. 无论从Steam创建的桌面快捷方式、开始菜单快捷方式、Steam程序内、Steam图标右键菜单启动KSP，都会启动64位客户端同时调用DX11
 
 ### 兼容性问题/BUG
@@ -130,10 +130,10 @@
   > 例子：KSP 1.3.1 安装大量MOD 最高画质
 
   使用**DX9**时，独立显存占用**0.6GB**  
-  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/DX9_GPU.jpg)
+  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/DX9_GPU.png)
 
   使用**DX11**时，独立显存占用**2.7GB**  
-  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/DX11_GPU.jpg)
+  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/DX11_GPU.png)
 - Q：为什么调用OpenGL也可以降低内存使用，**但游戏性能可能降低**？  
   A：根据本人曾经于1.1.3版本做的测试[《DX9、DX11和OpenGL同平台下简单性能对比》](https://tieba.baidu.com/p/4917015866)  
   节省内存的原理与DX11相同，性能较低可能为驱动优化不足或OpenGL自身效率低下。
@@ -172,5 +172,5 @@
   > Image Tuner
 - 题图无水印无遮挡版  
   **这不是截图**  
-  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Oops.jpg)
+  ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Oops.png)
   *发布于公有领域，无限制自由使用*
