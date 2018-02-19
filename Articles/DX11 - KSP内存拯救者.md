@@ -8,9 +8,9 @@
 
 游戏制作组和玩家并没有被击倒，他们以各自的努力改善游戏体验：
 - KSP 1.1版，游戏引擎升级到Unity 5，64位客户端终于稳定可用
-- Active Texture Management这个MOD可以主动压缩贴图以节约内存使用
-- Texture Replacer这个MOD可以主动卸载未使用贴图以节约内存使用
-- 玩家主动调用OpenGL降低内存使用，**但游戏性能可能降低**
+- **Active Texture Management** (MOD)可以主动压缩贴图以节约内存使用
+- **Texture Replacer** (MOD)可以主动卸载未使用贴图以节约内存使用
+- 玩家主动调用**OpenGL**降低内存使用，但游戏性能可能降低
 
 如今在制作组的不断努力下，游戏日趋稳定，玩家可以尽情享受稳定的64位客户端带来的大内存福利。
 
@@ -118,7 +118,7 @@
 ### 兼容性问题/BUG
 - **原版游戏目前无任何问题**
 - 少数美化类MOD**可能**不兼容或存在BUG
-- [Kronal Vessel Viewer](https://forum.kerbalspaceprogram.com/index.php?/topic/152430-link)这个MOD在DX11下无法正常使用
+- [**Kronal Vessel Viewer**](https://forum.kerbalspaceprogram.com/index.php?/topic/152430-link) (MOD)在DX11下无法正常使用
 > **如果你认为确实遇到了兼容性问题/BUG：**  
 > 取消或删除上文提到的所有修改，使用默认的DX9进入游戏，检查兼容性问题/BUG是否继续存在  
 > 如果问题/BUG消失，则可以确定是DX11带来的问题  
