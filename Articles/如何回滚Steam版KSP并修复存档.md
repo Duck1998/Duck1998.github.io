@@ -50,12 +50,21 @@ B站up主[@M31的夜空](https://space.bilibili.com/2996571/)曾表示该选项�
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/08.PNG)
 5. 使用“**记事本**”打开，不必勾选“始终使用此应用打开 .sfs文件”  
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/09.PNG)
-6. 将**第三行**的“Version = ”后的版本号改为你需要的版本号，**保存文件**
+6. 将**第三行**的“version = ”后的版本号改为你需要的版本号，**保存文件**
    > 例子：1.4.0改为1.3.1  
 
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/10.PNG)
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/11.PNG)
-7. 旧存档修复完成，尽情享受吧  
+7. 按“Ctrl+F”打开**查找**功能，输入“version = ”并搜索，将版本号改为你需要的版本号，**保存文件**  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/14.PNG)
+8. 回到**存档目录**，打开“**Ships**”文件夹，这里负责存放载具存档  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/15.PNG)
+9. 找到你的载具存档，这里以SPH为例，存档文件格式为“**.craft**”  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/16.PNG)
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/17.PNG)
+10. 以同样的方法用记事本打开文件，将版本号改为你需要的版本号，**保存文件**  
+   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/18.PNG)
+11. 旧存档修复完成，尽情享受吧  
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/12.jpg)
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/%E5%A6%82%E4%BD%95%E5%9B%9E%E6%BB%9ASteam%E7%89%88KSP%E5%B9%B6%E4%BF%AE%E5%A4%8D%E5%AD%98%E6%A1%A3/13.jpg)
 
