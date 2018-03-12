@@ -141,9 +141,9 @@
   A：因为在KSP 1.1版本前，也就是使用Unity 5引擎前，调用DX11会造成影响体验的BUG以及MOD兼容问题，而OpenGL并不会。 
 - Q：为什么OpenGL不会遇到问题？  
   A：个人猜测因为Mac版和Linux版都只能使用OpenGL，故开发游戏时已经解决了问题，且MOD开发时一般也考虑了OpenGL兼容性。  
-- Q：如何调用OpenGL？  
-  A：将此文章中的“d3d11”替换为“opengl”即可。
-- Q：能不能调用DX10/DX12/Vulkan？  
+- Q：如何调用OpenGL或DX12？  
+  A：将此文章中的“d3d11”替换为“opengl”或“d3d12”即可。
+- Q：能不能调用DX10/Vulkan？  
   A：不能，游戏不支持。
 
 ### 后记
