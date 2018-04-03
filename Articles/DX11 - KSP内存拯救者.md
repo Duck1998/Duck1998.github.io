@@ -43,7 +43,7 @@
 ### 使用前提
 1. 电脑配备了支持DX11的**独立**显卡，显存建议至少为1GB
    > 若不清楚是否支持DX11，搜索“显卡型号+DX11”  
-   > Intel核芯显卡与AMD APU未测试，**不保证效果**
+   > AMD APU未测试，**不保证效果**
 2. 操作系统为Windows Vista或以上，其中Vista需要安装DX11升级补丁
 
 ### 使用方法
@@ -91,7 +91,7 @@
   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/DX11%20-%20KSP%E5%86%85%E5%AD%98%E6%8B%AF%E6%95%91%E8%80%85/Log.png)
 - ~~观察游戏的内存占用变化，明显减少则成功调用DX11~~（废话）
 
-#### 强制Steam默认启动64位客户端同时调用DX11
+#### 1.3.1及以下版本：强制Steam默认启动64位客户端同时调用DX11
 > **意义何在？**
 > - 懒，不想每次启动都手动选择64位客户端
 > - 不使用Steam启动就无法积累Steam游戏时长，也不能使用Steam游戏内覆盖功能
@@ -116,7 +116,8 @@
 4. 无论从Steam创建的桌面快捷方式、开始菜单快捷方式、Steam程序内、Steam图标右键菜单启动KSP，都会启动64位客户端同时调用DX11
 
 ### 兼容性问题/BUG
-- **原版游戏目前无任何问题**
+- **1.3.1版本：原版游戏目前无任何问题**
+- **1.4.x版本：VAB和SPH中左侧组件预览不显示贴图**
 - 少数美化类MOD**可能**不兼容或存在BUG
 - [**Kronal Vessel Viewer**](https://forum.kerbalspaceprogram.com/index.php?/topic/152430-link) (MOD)在DX11下无法正常使用
 > **如果你认为确实遇到了兼容性问题/BUG：**  
