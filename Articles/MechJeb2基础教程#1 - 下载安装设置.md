@@ -40,7 +40,7 @@ MJ是笔者在入门时期接触的第一个MOD，因此印象最为深刻。它
 原版由MechJeb维护者[@sarbian](https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/)直接管理，更新速度快
 - 位于官方论坛的[发布帖链接](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-d)  
   ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/MechJeb2%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%231/07.jpg)
-- 功能与汉化版整合的“指令舱/座椅内置MJ脚本”接近的[指令舱内置MJ脚本](http://forum.kerbalspaceprogram.com/index.php?/topic/88726-d)  
+- 功能与汉化版整合的“指令舱/座椅内置MJ脚本”接近的[指令舱内置MJ脚本](https://forum.kerbalspaceprogram.com/index.php?/topic/88726-d)  
 
 ### 确认安装成功
 MJ功能菜单出现的判定条件为**当前航天器的任意组件中存在MechJeb模块**，但这个模块并不存在于原版游戏中  
@@ -108,11 +108,12 @@ Toolbar可实现的效果预览：
 ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/MechJeb2%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%231/24.jpg)
 
 ### 后记
-感谢阅读《MechJeb2基础教程》系列第1篇：下载/安装/设置  
-本期从最基础开始，接下来每期将专注于其中一个功能，通过专栏图文与视频解说结合，尽我所能完整详细地介绍此功能的使用方法。  
-下一期将带来《MechJeb2基础教程》系列第2篇：自动发射
+感谢阅读《MechJeb2基础教程》系列第1期：下载/安装/设置  
+本期从最基础开始，接下来每期将专注于其中一个或多个功能，通过专栏图文与视频解说结合，尽我所能完整详细地介绍此功能的使用方法。  
+下一期将带来《MechJeb2基础教程》系列第2期：自动发射
 
 ### 附录
 图片制作与编辑软件：
 > 画图  
+> PowerPoint 2016  
 > Image Tuner
