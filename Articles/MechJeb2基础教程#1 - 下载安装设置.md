@@ -17,8 +17,8 @@ MJ是笔者在入门时期接触的第一个MOD，因此印象最为深刻。它
 
 ### 下载和安装
 #### 汉化版
-> 由于汉化版由第三方（[贴吧@孤生苦世](http://tieba.baidu.com/home/main?un=%E5%AD%A4%E7%94%9F%E8%8B%A6%E4%B8%96)）管理，此部分内容**不保证永久准确有效**  
-1. 打开[MechJeb2汉化更新发布贴](https://tieba.baidu.com/p/2928105246)，找到[下载地址](http://pan.baidu.com/s/1sjHhgHB)并打开（密码：k5nc）  
+> 由于汉化版由第三方（[贴吧@孤身苦世](http://tieba.baidu.com/home/main?un=%E5%AD%A4%E8%BA%AB%E8%8B%A6%E4%B8%96)）管理，此部分内容**不保证永久准确有效**  
+1. 打开[MechJeb2汉化更新发布贴](https://tieba.baidu.com/p/5755515957)，找到[下载地址](http://pan.baidu.com/s/1sjHhgHB)并打开（密码：k5nc）  
    ![image](https://github.com/Duck1998/Duck1998.github.io/raw/master/Assets/MechJeb2%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%231/02.png)
 2. **首先阅读“MechJeb2汉化说明.txt”，下载对应版本**  
    本教程以目前最新的“MechJeb2-2.7.3-releases-zh_CN-180404.zip”为例，其中2.7.3版实际支持KSP 1.4.x版，因此可用于目前最新的KSP 1.4.3  
