@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于"
-description: "仰望星空的我们，同样来自星尘。"
+description: "仰望星空的我们，同样来自星尘"
 header-img: "img/about-bkg.jpg"
 ---
 
