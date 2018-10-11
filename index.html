@@ -19,7 +19,7 @@ description: "生活与游戏中的各种瞎折腾"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} 于 {{ post.date | date: "%Y-%m-%d" }} 发表
     </p>
 </div>
 <hr>
