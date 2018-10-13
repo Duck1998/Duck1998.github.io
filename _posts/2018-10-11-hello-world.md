@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欢迎光临KerbalPARA"
+title: "欢迎光临 KerbalPARA"
 subtitle: "请问您今天要来点文章吗？"
 date: 2018-10-11
 author: "Duck"
@@ -23,12 +23,12 @@ tags:
 - 可以在本地预览最终效果
 
 ## 博客的历史
-2018-2 至 2018-9 :使用 GitHub Issue 功能的简单博客  
+2018-2 至 2018-9: 使用 GitHub Issue 功能的简单博客  
 可在 [`deprecated` 分支](https://github.com/Duck1998/Duck1998.github.io/tree/deprecated) 浏览历史文件
 
 ## 访客互动方式
-**准备**使用博客主题模板自带的 Disqus  
-可惜适合国内使用的多说早就停止服务了
+使用博客主题模板自带的 Disqus 评论系统  
+遇到网站问题请在 [Issue](https://github.com/Duck1998/Duck1998.github.io/issues) 提出
 
 ## 网络可访问性
 > Across the Great Wall we can reach every corner in the world.  
