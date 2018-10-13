@@ -5,7 +5,7 @@ description: "仰望星空的我们，同样来自星尘"
 header-img: "img/about-bkg.jpg"
 ---
 
-# 个人简介
+## 个人简介
 
 - 爱折腾的标准理工科宅男
 - 模拟类游戏爱好者
