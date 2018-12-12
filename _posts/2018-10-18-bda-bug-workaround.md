@@ -105,6 +105,16 @@ BDAc 最近一次更新于8月8日，距离现在已有超过两个月时间，�
 > Good catch @Duck1998 ! :)  
   I guess we should really fix our Category module to use the localized string, but this is a good workaround until someone gets to it. :)
 
+---
+
+**2018/11/27 更新**  
+BDAc已于10天前 [更新][7] ，修复了这个问题。  
+v1.2.3: Thanks to SpannerMoneky, Gedas-S, DoctorDavinci, Kergan, Gomker, PapaJoesSoup, TheDogKSP, Duck1998, and Fitiales for their work on this release!  
+- FIXES
+  - Fixed weapons category due to localization issues. #580  
+
+---
+
 最后附上问题解决后显示正常的截图  
 ![image](/img/posts/bda-bug-workaround-03.jpg)
 
@@ -125,3 +135,4 @@ BDAc 最近一次更新于8月8日，距离现在已有超过两个月时间，�
 [4]:https://github.com/PapaJoesSoup/BDArmory/commit/0312aee3841bf3953e29ea4499bf9b06b04e6e4d#diff-4d82c2810389739e75bf7c291ecbaad3
 [5]:https://forum.kerbalspaceprogram.com/index.php?/topic/149840-discussion-community-category-kit/
 [6]:https://github.com/PapaJoesSoup/BDArmory/pull/585
+[7]:https://github.com/PapaJoesSoup/BDArmory/releases/tag/v1.2.3.0
