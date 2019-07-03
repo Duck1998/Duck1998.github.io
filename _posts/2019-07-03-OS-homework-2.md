@@ -66,7 +66,7 @@ tags:
 9. 关闭信号量、互斥体、共享内存
 
 ## Windows 版
-```c
+```cpp
 #include <Windows.h>
 #include <Shlwapi.h>
 #include <stdio.h>
@@ -277,7 +277,7 @@ int _tmain(int argc, TCHAR *argv[])
 ```
 
 ## Linux 版
-```c
+```cpp
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

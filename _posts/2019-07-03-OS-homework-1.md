@@ -89,11 +89,10 @@ int _tmain(int argc, TCHAR *argv[])
 	printf("\nRun time: %dms\n", result);
 	return 0;
 }
-
 ```
 
 ## Linux 版
-```c
+```cpp
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/time.h>

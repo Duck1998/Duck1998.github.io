@@ -39,7 +39,7 @@ Linux 编程中被判定为符号链接后，在新的位置创建指向相同�
 `mycp test test2`
 
 ## Windows 版
-```c
+```cpp
 #include <Windows.h>
 #include <stdio.h>
 #include <strsafe.h>

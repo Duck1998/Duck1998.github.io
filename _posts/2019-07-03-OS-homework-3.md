@@ -30,7 +30,7 @@ GetSystemInfo、VirtualQueryEx、VirtualAlloc、 GetPerformanceInfo、GlobalMemo
   - 其他信息（`State`、`AllocationProtect`、`Type`）查表输出结果
 
 ## 源代码
-```c
+```cpp
 #include <windows.h>
 #include <tlhelp32.h>
 #include <stdio.h>
