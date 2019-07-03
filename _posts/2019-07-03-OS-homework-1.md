@@ -28,7 +28,7 @@ Windows：`mytime "ping baidu.com"`
 Linux: `./mytime apt-get moo`
 
 ## Windows 版
-```c
+```cpp
 #include <windows.h>
 #include <stdio.h>
 #include <tchar.h>
