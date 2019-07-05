@@ -7,6 +7,7 @@ author: "Duck"
 tags:
     - KSP
     - MechJeb2
+    - MOD
     - 教程
     - 历史文章
 ---
