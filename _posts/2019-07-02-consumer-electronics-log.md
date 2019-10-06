@@ -56,10 +56,10 @@ author: "Duck"
 
 ## 移动设备
 ### 现役
-- Google Pixel 3
-  > 5.45'  
-  > 高通 骁龙845  
-  > 4GB RAM  
+- 三星 Galaxy S10e
+  > 5.8'
+  > 高通 骁龙855
+  > 6GB RAM
   > 128GB存储
 
 - 任天堂 Switch
@@ -68,13 +68,19 @@ author: "Duck"
   > 4GB RAM  
   > 32GB存储
 
+### 退役
+- Google Pixel 3
+  > 5.45'  
+  > 高通 骁龙845  
+  > 4GB RAM  
+  > 128GB存储
+
 - Google Nexus 5X
   > 5.2'  
   > 高通 骁龙808  
   > 2GB RAM  
   > 32GB存储
 
-### 退役
 - Google Pixel
   > 5.0'  
   > 高通 骁龙821  
