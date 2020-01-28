@@ -15,7 +15,7 @@ author: "Duck"
   > 三星 PM871a 1TB
 
 - 微软 Surface Go
-  > Intel Pentium 4415Y
+  > Intel Pentium 4415Y  
   > 2 × 4GB LPDDR3-1866  
   > 东芝 BG3 128GB
 
@@ -62,9 +62,9 @@ author: "Duck"
 ## 移动设备
 ### 现役
 - 三星 Galaxy S10e
-  > 5.8'
-  > 高通 骁龙855
-  > 6GB RAM
+  > 5.8'  
+  > 高通 骁龙855  
+  > 6GB RAM  
   > 128GB 存储
 
 - 任天堂 Switch
