@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "消费性电子产品变迁记录"
-subtitle: "买！"
-date: 2019-07-02
-author: "Duck"
+layout: article
+title: 消费性电子产品变迁记录
+tags: 记录
+modify_date: 2020-02-25
 ---
+买！
+<!--more-->
+
 ## 电脑
 ### 现役
 - 未来人类 P775TM1-G 准系统
@@ -20,7 +22,7 @@ author: "Duck"
   > 东芝 BG3 128GB
 
 ### 退役
-- HP Spectre x360 13' (2017/L)
+- HP Spectre x360 13'(2017/L)
   > Intel Core i5-8250U  
   > 2 × 4GB LPDDR3-2133  
   > 英特尔 6000p 360GB
@@ -29,10 +31,10 @@ author: "Duck"
   > Core i7-6700K  
   > NVIDIA GeForce GTX 1070  
   > 2 × 8GB DDR4-3000  
-  > 三星 SM951 128GB  
-  > 三星 PM871a 1TB
+  > 三星 SM951 128GB（复用）  
+  > 三星 PM871a 1TB（复用）
 
-- HP Spectre x360 13' (2016/L)
+- HP Spectre x360 13'(2016/L)
   > Intel Core i5-7200U  
   > 2 × 4GB LPDDR3-1866  
   > 三星 PM951 256GB
@@ -67,13 +69,19 @@ author: "Duck"
   > 6GB RAM  
   > 128GB 存储
 
+- 任天堂 Switch Lite
+  > 5.5'  
+  > 英伟达 Tegra X1(16nm)  
+  > 4GB RAM  
+  > 32GB 存储
+
+### 退役
 - 任天堂 Switch
   > 6.2'  
   > 英伟达 Tegra X1  
   > 4GB RAM  
   > 32GB 存储
 
-### 退役
 - Google Pixel 3
   > 5.45'  
   > 高通 骁龙845  
@@ -121,3 +129,22 @@ author: "Duck"
   > 德州仪器 OMAP3630  
   > 512MB RAM  
   > 无内部存储
+
+## 耳机
+### 现役
+- 索尼 WF-1000XM3
+  > 分体式蓝牙耳机  
+  > 动圈
+
+- 索尼 WI-1000X
+  > 颈挂式蓝牙耳机  
+  > 圈铁
+
+- HiFiMAN HE400S
+  > 开放式有线头戴耳机  
+  > 平板振膜
+
+### 退役
+- 铁三角 E40
+  > 入耳式有线耳机  
+  > 动铁

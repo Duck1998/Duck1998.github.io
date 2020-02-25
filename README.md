@@ -1,1 +1,1 @@
-[WIP] 个人博客
+基于 jekyll-TeXt-theme 的个人博客

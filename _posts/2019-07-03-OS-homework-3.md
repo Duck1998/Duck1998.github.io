@@ -1,16 +1,13 @@
 ---
-layout: post
-title: "实验四 - 内存监视"
-subtitle: "操作系统实践编程作业"
-date: 2019-07-03
-author: "Duck"
-tags:
-    - 操作系统实践
-    - 编程作业
+layout: article
+title: "操作系统实践 - 内存监视"
+tags: 操作系统实践 作业
 ---
 ## 实验要求
 设计一个内存监视器，能实时地显示当前系统中内存的使用情况，包括系统地址空间的布局，物理内存的使用情况；能实时显示某个进程的虚拟地址空间布局和工作集信息等（通过 PID 查询进程虚拟地址空间情况）。  
 仅实现 Windows 版本。
+<!--more-->
+
 ### 参考Windows系统相关的系统调用
 GetSystemInfo、VirtualQueryEx、VirtualAlloc、 GetPerformanceInfo、GlobalMemoryStatusEx等。
 

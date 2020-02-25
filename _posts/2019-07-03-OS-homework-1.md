@@ -1,16 +1,12 @@
 ---
-layout: post
-title: "实验二 - 进程控制"
-subtitle: "操作系统实践编程作业"
-date: 2019-07-03
-author: "Duck"
-tags:
-    - 操作系统实践
-    - 编程作业
+layout: article
+title: "操作系统实践 - 进程控制"
+tags: 操作系统实践 作业
 ---
 ## 实验要求
 设计并实现类似 Unix 的 “time” 命令：“mytime”。“mytime” 命令通过命令行参数接收要运行的程序，创建一个独立的进程来运行该程序，并记录该程序运行的时间。  
 实现 Windows 版本和 Linux 版本。
+<!--more-->
 
 ### 提示
 #### 在 Windows 下实现
