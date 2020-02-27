@@ -33,26 +33,26 @@ modify_date: 2018-04-03
 
 ## 效果展示
 ### KSP 1.3.1 原版
-![image](/images/ksp-dx11-save-ram-01.webp){:height="384px"}  
-![image](/images/ksp-dx11-save-ram-02.webp){:height="256px"}
+![image](/images/ksp-dx11-save-ram-01.webp)  
+![image](/images/ksp-dx11-save-ram-02.webp)
 
 默认使用 **DX9** 时，内存占用 **2293MB**  
-![image](/images/ksp-dx11-save-ram-03.webp){:height="128px"}
+![image](/images/ksp-dx11-save-ram-03.webp)
 
 指定使用 **DX11** 时，内存占用 **1211MB** ，降低 **47.2%**  
-![image](/images/ksp-dx11-save-ram-04.webp){:height="128px"}
+![image](/images/ksp-dx11-save-ram-04.webp)
 
 *不够刺激？那我们来点认真的！*
 ### KSP 1.3.1 安装大量 MOD
-![image](/images/ksp-dx11-save-ram-05.webp){:height="384px"}  
+![image](/images/ksp-dx11-save-ram-05.webp)  
 ![image](/images/ksp-dx11-save-ram-06.webp)
-{:height="256px"}
+
 
 默认使用 **DX9** 时，内存占用 **6887MB**  
-![image](/images/ksp-dx11-save-ram-07.webp){:height="128px"}
+![image](/images/ksp-dx11-save-ram-07.webp)
 
 指定使用 **DX11** 时，内存占用 **4161MB** ，降低 **39.6%**  
-![image](/images/ksp-dx11-save-ram-08.webp){:height="128px"}
+![image](/images/ksp-dx11-save-ram-08.webp)
 
 ## 使用前提
 1. 电脑配备了支持 DX11 的**独立**显卡，显存建议至少为 1GB
@@ -91,7 +91,7 @@ modify_date: 2018-04-03
 ### 确认游戏成功调用 DX11
 - 启动游戏后，打开游戏安装目录，找到 KSP.log  
   如果有 「Direct3D 11.0」 字样，则成功调用 DX11  
-  ![image](/images/ksp-dx11-save-ram-15.webp){:height="192px"}
+  ![image](/images/ksp-dx11-save-ram-15.webp)
 - ~~观察游戏的内存占用变化，明显减少则成功调用 DX11~~（废话）
 
 ### 1.3.1 及以下版本：强制 Steam 默认启动64位客户端同时调用 DX11

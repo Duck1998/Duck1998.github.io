@@ -64,7 +64,7 @@ B站up主[@M31的夜空](https://space.bilibili.com/2996571/)曾表示该选项�
 4. 右键单击 「**persistent.sfs**」 ，选择「**打开方式**」  
    ![image](/images/ksp-rollback-repair-saves-08.webp)
 5. 使用「**记事本**」打开，不必勾选「始终使用此应用打开 .sfs文件」  
-   ![image](/images/ksp-rollback-repair-saves-09.webp){:height="384px"}
+   ![image](/images/ksp-rollback-repair-saves-09.webp)
 6. 将**第三行**的 「version = 」 后的版本号改为你需要的版本号，**保存文件**
    > 例子：1.4.0 改为 1.3.1  
 
@@ -80,5 +80,5 @@ B站up主[@M31的夜空](https://space.bilibili.com/2996571/)曾表示该选项�
 10. 以同样的方法用记事本打开文件，将版本号改为你需要的版本号，**保存文件**  
    ![image](/images/ksp-rollback-repair-saves-18.webp)
 11. 旧存档修复完成，尽情享受吧  
-   ![image](/images/ksp-rollback-repair-saves-12.webp){:height="384px"}  
-   ![image](/images/ksp-rollback-repair-saves-13.webp){:height="384px"}
+   ![image](/images/ksp-rollback-repair-saves-12.webp)  
+   ![image](/images/ksp-rollback-repair-saves-13.webp)

@@ -25,7 +25,7 @@ modify_date: 2018-07-14
 ### MechJeb2 的功能
 > 截图来自 2.7.3 汉化版  
 
-![image](/images/mechjeb2-tutorial-1-01.webp){:height="512px"}
+![image](/images/mechjeb2-tutorial-1-01.webp)
 ### 推荐理由
 MJ 是笔者在入门时期接触的第一个 MOD ，因此印象最为深刻。它能帮助玩家在火箭建造和轨道机动中少走弯路，在熟悉游戏后可用于执行重复枯燥的操作，在航天器交汇、对接、定点降落等场景中提供十分高的精确度。此 MOD 一定程度上降低了游戏的入门门槛，同时也可以为更加复杂的航天计划奠定基础。
 
@@ -54,7 +54,7 @@ MJ 是笔者在入门时期接触的第一个 MOD ，因此印象最为深刻。
 
 原版由 MechJeb 维护者 [@sarbian](https://forum.kerbalspaceprogram.com/index.php?/profile/57146-sarbian/) 直接管理，更新速度快
 - 位于官方论坛的 [发布帖链接](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-d)  
-  ![image](/images/mechjeb2-tutorial-1-07.webp){:height="384px"}
+  ![image](/images/mechjeb2-tutorial-1-07.webp)
 - 功能与汉化版整合的「指令舱/座椅内置 MJ 脚本」接近的 [指令舱内置 MJ 脚本](https://forum.kerbalspaceprogram.com/index.php?/topic/88726-d)  
 
 ## 确认安装成功
@@ -70,7 +70,7 @@ MJ 功能菜单出现的判定条件为**当前航天器的任意组件中存在
 在 MJ 功能菜单中打开设置  
 **右键按住 MechJeb 菜单按钮**以拖动功能菜单  
 ![image](/images/mechjeb2-tutorial-1-11.webp)  
-![image](/images/mechjeb2-tutorial-1-12.webp){:height="512px"}  
+![image](/images/mechjeb2-tutorial-1-12.webp)  
 - 恢复默认设置：顾名思义
 - 使用xxx皮肤：  
   「1号皮肤」为早期版本风格，现已无法使用；「紧凑皮肤」缩小了行距，一定程度上节省了屏幕空间占用；「2号皮肤」为默认启用
@@ -78,11 +78,11 @@ MJ 功能菜单出现的判定条件为**当前航天器的任意组件中存在
   MJ 界面全局缩放比例
 - 用箭头选择器替代下拉菜单：见下图示例  
   开启前：  
-  ![image](/images/mechjeb2-tutorial-1-13.webp){:height="384px"}  
+  ![image](/images/mechjeb2-tutorial-1-13.webp)  
   开启后：  
-  ![image](/images/mechjeb2-tutorial-1-14.webp){:height="256px"}
+  ![image](/images/mechjeb2-tutorial-1-14.webp)
 - 隐藏探测器驾驶面板里的「驾驶员被弹出时制动」：顾名思义  
-  ![image](/images/mechjeb2-tutorial-1-15.webp){:height="384px"}
+  ![image](/images/mechjeb2-tutorial-1-15.webp)
 - 只有标题栏用于拖动窗口：顾名思义
 - 使用app导航图标/隐藏侧边菜单按钮：  
   需要注意的是「app导航图标」是右侧红圈  
@@ -111,7 +111,7 @@ MJ 功能菜单出现的判定条件为**当前航天器的任意组件中存在
 > Toolbar 本身自带良好的简体中文翻译，故此处不做额外的设置介绍
 
 [Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-d) 可供第三方 MOD 显示功能按钮，而且具备一定的自定义功能。  
-![image](/images/mechjeb2-tutorial-1-21.webp){:height="384px"}  
+![image](/images/mechjeb2-tutorial-1-21.webp)  
 Toolbar 可实现的效果预览：  
 ![image](/images/mechjeb2-tutorial-1-22.webp)  
 ![image](/images/mechjeb2-tutorial-1-23.webp)
@@ -120,7 +120,7 @@ Toolbar 可实现的效果预览：
 > 此部分内容默认你具有足够的英语阅读理解能力，这里只提供必要的说明和链接  
 
 [开发版](https://ksp.sarbian.com/jenkins/job/MechJeb2-Dev/) 包含所有开发中的新功能/BUG修复。当 KSP 版本更新或正式版 MJ 存在严重 BUG 时，开发版中的新功能/BUG修复将加入正式版并作为全新的正式版发布。由于开发版添加了新的功能，因此可能存在比正式版更多的 BUG。  
-![image](/images/mechjeb2-tutorial-1-24.webp){:height="384px"}
+![image](/images/mechjeb2-tutorial-1-24.webp)
 
 ## 后记
 感谢阅读《MechJeb2基础教程》系列第1期：下载/安装/设置  

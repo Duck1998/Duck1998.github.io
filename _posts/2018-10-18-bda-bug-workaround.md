@@ -18,7 +18,7 @@ modify_date: 2018-11-27
 
 ## 起因
 自上个月以来，坎巴拉太空计划吧的提问楼偶尔会出现类似「为什么我的 BDA 只显示这些部件」这种提问，也就是下图中这种情况。  
-![image](/images/bda-bug-workaround-01.webp){:height="384px"}
+![image](/images/bda-bug-workaround-01.webp)
 
 提问者得到的回答一般是「按制造商筛选就能找到全部 MOD 部件」。这样做确实能解决问题，于是我也没有深究下去，毕竟我个人并不使用这个 MOD。
 直到前几天，又有位在提问楼提出了同样的问题。在得到同样的回答后，那位并不满意并表示已经解决了这个 BUG ——这引起了我的好奇心。
@@ -63,7 +63,7 @@ BDAc 最近一次更新于8月8日，距离现在已有超过两个月时间，�
     title = AMRAAM EMP Missile
 ```
 似乎没什么区别。但仔细一看——这个名为 *AMRAAM EMP Missile* 的导弹却正常出现在 BDA 部件分类中！  
-![image](/images/bda-bug-workaround-02.webp){:height="256px"}
+![image](/images/bda-bug-workaround-02.webp)
 
 鉴于 BDAc 并没有使用第三方分类 MOD（例如 [CCK][5]）进行部件分类，所以 BDAc 一定有自己的分类功能模块，那为什么这个 BUG 在以前并没有出现呢？
 在 Release 页面查看最新版本的更新日志，这两条记录十分关键：
@@ -117,7 +117,7 @@ v1.2.3: Thanks to SpannerMoneky, Gedas-S, DoctorDavinci, Kergan, Gomker, PapaJoe
   - Fixed weapons category due to localization issues. #580  
 
 最后附上问题解决后显示正常的截图  
-![image](/images/bda-bug-workaround-03.webp){:height="512px"}
+![image](/images/bda-bug-workaround-03.webp)
 
 ## 总结
 作为和 KSP MOD 打了四年多交道的老油条，经过这次排 BUG 的经历，个人认为这些帮到了我：
