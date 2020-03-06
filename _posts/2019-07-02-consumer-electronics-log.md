@@ -30,7 +30,7 @@ modify_date: 2020-02-25
 - 未来人类 P775DM2-G 准系统
   > Core i7-6700K  
   > NVIDIA GeForce GTX 1070  
-  > 2 × 8GB DDR4-3000  
+  > 2 × 8GB DDR4-3000（复用）  
   > 三星 SM951 128GB（复用）  
   > 三星 PM871a 1TB（复用）
 
