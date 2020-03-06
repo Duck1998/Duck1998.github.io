@@ -2,16 +2,18 @@
 layout: article
 title: "致万户阁组长 Karrot 与B站用户飞若仙"
 tags: 坎巴拉太空计划
+modify_date: 2020-03-06
 ---
 万户阁组长 [Karrot](https://forum.kerbalspaceprogram.com/index.php?/profile/199966-karrot/) 你好，有关阁下组员，B站用户 [飞若仙](https://space.bilibili.com/91654999)（已将我拉入黑名单）的专栏及若干行为，我有不少不甚了解或存在疑问的地方，我希望能得到你——也就是组长的说明或解释。
 <!--more-->
 
+万户组的回应：[《错了要认挨打要立正，万户阁致歉书及整改公告》](https://www.bilibili.com/read/cv4923521)  
 [本文首发于 Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192009-duck/&do=findComment&comment=3749379)，对排版做了必要修改，附加网页备份。
 {:.info}
 
 我的B站账号为 [Duck1998](https://space.bilibili.com/5245625)；贴吧ID为 [tigerduck98](http://tieba.baidu.com/home/main?un=tigerduck98)，18年底成为坎巴拉太空计划吧管理。
 
-## 专栏[《关于B站up主 ReachStar 抨击的回应》](https://www.bilibili.com/read/cv4859726)
+## [《关于B站up主 ReachStar 抨击的回应》](https://www.bilibili.com/read/cv4859726)（已删除）
 > Karrot求着贴吧的大佬，想要学下模组的制作，得到回复教是不可能教的，你可以来买制作模组的文件，你看着给吧，少于五千可不行哦。这是穷疯了还是抢劫？
 
 能否提供相关的记录或指认「贴吧的大佬」是谁，如确认属实我将在吧务组提议严肃处理此事。
@@ -20,7 +22,7 @@ tags: 坎巴拉太空计划
 
 Squad/TakeTwo 并没有「购买」贴吧使其成为官方游戏贴吧的行为，坎巴拉太空计划吧也**从未**以「官方」宣传过，能否转达给贵组成员？
 
-## 专栏[《关于B站up主 M31的夜空 抨击的回应》](https://www.bilibili.com/read/cv4864100)
+## [《关于B站up主 M31的夜空 抨击的回应》](https://www.bilibili.com/read/cv4864100)（已删除）
 > 你们抱团，已经形成了高价订制模组、制作视频与文案、直播等一整套生态系统，自然不会允许我突然闯入。
 
 能否提供相关的证据，越详细越好？如果不能，这相当于对参与这次事件的各位 up 主的**诬陷和造谣**。
@@ -31,7 +33,7 @@ Squad/TakeTwo 并没有「购买」贴吧使其成为官方游戏贴吧的行为
 
 「涉及到的up主」**包括但不限于** [ReachStar](https://space.bilibili.com/12973629)、[M31的夜空](https://space.bilibili.com/2996571) 以及我本人
 
-## 专栏[《对于万户组（阁）各问题的最终回复》](https://www.bilibili.com/read/cv4886156)
+## [《对于万户组（阁）各问题的最终回复》](https://www.bilibili.com/read/cv4886156)
 我于2月29日下午针对「2」中问题，发表了如下评论，很快遭到了删除。
 > 您于cv4864100中的第三点回复「你们抱团，已经形成了高价订制模组、制作视频与文案、直播等一整套生态系统，自然不会允许我突然闯入。」能否提供准确的证据呢？如果没有证据，这样相当于诬陷、造谣行为，望正面答复——歼人·宇宙警察·Duck势力·Duck1998
 
