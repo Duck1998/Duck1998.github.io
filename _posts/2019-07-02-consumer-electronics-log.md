@@ -12,14 +12,19 @@ modify_date: 2020-02-25
 - 未来人类 P775TM1-G 准系统
   > Intel Core i9-9900K  
   > NVIDIA GeForce RTX 2080  
-  > 2 × 8GB DDR4-3000  
-  > 三星 SM951 128GB  
-  > 三星 PM871a 1TB
+  > 2 × 8GB DDR4-3000（复用）  
+  > 三星 SM951 128GB（复用）  
+  > 三星 PM871a 1TB（复用）
 
 - 微软 Surface Go
   > Intel Pentium 4415Y  
   > 2 × 4GB LPDDR3-1866  
   > 东芝 BG3 128GB
+
+- 树莓派 4
+  > 博通 BCM2711  
+  > 4GB LPDDR4-3200  
+  > 闪迪 Ultra 32GB C10 A1
 
 ### 退役
 - HP Spectre x360 13'(2017/L)
