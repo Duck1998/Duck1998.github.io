@@ -23,8 +23,10 @@ tags: 坎巴拉太空计划 FAQ
 ## 不支持 32 位操作系统
 ### 问题表现
 使用 Steam 下载并启动游戏得到以下错误信息
-> 更新 Kerbal Space Program 时出现错误（缺失可执行文件）:  
-> Steam 库目录\Kerbal Space Program\KSP.app
+
+更新 Kerbal Space Program 时出现错误（缺失可执行文件）:  
+Steam 库目录\Kerbal Space Program\KSP.app
+{:.error}
 
 ### 原因与解决方法
 自 2018/10/15 发布的 1.5 版本起，游戏不再提供 32 位客户端，Steam 无法处理这种情况。
@@ -64,7 +66,7 @@ tags: 坎巴拉太空计划 FAQ
 游戏启动时卡在黑色背景与极短的进度条。  
 ![image](/images/ksp-stuck-fix-06.webp)
 
-`%USERPROFILE%\AppData\LocalLow\Squad\Kerbal Space Program\Player.log`中可搜索到以下关键词
+`%USERPROFILE%\AppData\LocalLow\Squad\Kerbal Space Program\Player.log` 中可搜索到以下关键词
 > TimeZoneNotFoundException
 
 ### 原因与解决方法
@@ -82,7 +84,7 @@ tags: 坎巴拉太空计划 FAQ
 也可能会得到以下错误信息
 > Couldn't switch to requested monitor resolution
 
-`%USERPROFILE%\AppData\LocalLow\Squad\Kerbal Space Program\output_log.txt`中可搜索到以下关键词
+`%USERPROFILE%\AppData\LocalLow\Squad\Kerbal Space Program\output_log.txt` 中可搜索到以下关键词
 > IndexOutOfRangeException
 
 ### 原因与解决方法
