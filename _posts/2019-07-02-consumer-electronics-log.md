@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2020-02-25
+modify_date: 2020-04-24
 ---
 买！
 <!--more-->
@@ -68,10 +68,10 @@ modify_date: 2020-02-25
 
 ## 移动设备
 ### 现役
-- 三星 Galaxy S10e
-  > 5.8'  
-  > 高通 骁龙855  
-  > 6GB RAM  
+- 三星 Galaxy S20
+  > 6.2'  
+  > 高通 骁龙865  
+  > 12GB RAM  
   > 128GB 存储
 
 - 任天堂 Switch Lite
@@ -81,6 +81,12 @@ modify_date: 2020-02-25
   > 32GB 存储
 
 ### 退役
+- 三星 Galaxy S10e
+  > 5.8'  
+  > 高通 骁龙855  
+  > 6GB RAM  
+  > 128GB 存储
+
 - 任天堂 Switch
   > 6.2'  
   > 英伟达 Tegra X1  
