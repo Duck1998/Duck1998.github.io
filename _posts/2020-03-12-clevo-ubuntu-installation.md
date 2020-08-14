@@ -2,9 +2,13 @@
 layout: article
 title: "蓝天砖头本 Ubuntu 19.10 历险记"
 tags: Ubuntu 记录
+modify_date: 2020-08-14
 ---
 只要搜索不滑坡，方法总比困难多。
 <!--more-->
+
+同样适用于 Ubuntu 20.04 LTS。
+{:.info}
 
 ## 环境
 ### 硬件
@@ -105,7 +109,9 @@ Surface Go 在一旁待命，随时准备谷歌遇到的问题，必要时也可
 [19.10 big issue with intel 9260ac wifi: iwlwifi brings system to a halt
 ](https://askubuntu.com/a/1188002)
 
-AC 9260 驱动与 Linux 5.3 内核不兼容导致，以下为临时解决方法。
+AC 9260 驱动与 Linux 5.3 内核不兼容导致，本硬件的解决方法为**启动 Linux 前关闭电脑并移除电源一段时间再插电启动**。
+
+以下为第二种临时解决方法，无需移除电源的麻烦但大大牺牲了网络速度，仅供参考。
 
 1. 从 [英特尔® 无线适配器的 Linux* 支持](https://www.intel.cn/content/www/cn/zh/support/articles/000005511/network-and-i-o/wireless-networking.html) 下载并安装 AC 9260 最新 Linux 驱动
 2. 创建网卡设置
@@ -117,7 +123,7 @@ AC 9260 驱动与 Linux 5.3 内核不兼容导致，以下为临时解决方法�
    options iwlwifi power_save=0 11n_disable=1
    ```
 
-由于禁用了 802.11n，推荐使用 5Ghz 的 802.11ac。
+这将禁用 802.11n/ac，5Ghz 仅能使用802.11a，速度受到极大限制。
 
 ### 解决时区冲突
 [怎样解决Windows10时间快和Ubuntu时间差问题？](https://www.zhihu.com/question/46525639/answer/157272414)
