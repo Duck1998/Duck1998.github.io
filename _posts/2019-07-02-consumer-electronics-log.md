@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2020-11-11
+modify_date: 2021-01-03
 ---
 买！
 <!--more-->
@@ -192,6 +192,7 @@ modify_date: 2020-11-11
 - 微软 Xbox One S 手柄带无线适配器 黑色
   - Xbox One 同步充电套件
 - 任天堂 Nintendo Switch Pro Controller
+- 八位堂 SN30pro SNES配色版
 - 图马斯特 T.16000M 飞行摇杆 旧款
 - 图马斯特 TWCS 节流阀
 - SinoFSX论坛 波音737 MCP BANK版
