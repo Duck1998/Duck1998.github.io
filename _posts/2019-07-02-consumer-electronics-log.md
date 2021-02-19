@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2021-01-03
+modify_date: 2021-02-20
 ---
 买！
 <!--more-->
@@ -111,6 +111,12 @@ modify_date: 2021-01-03
 
 - 任天堂 Switch Lite
   > 5.5' 720p LCD  
+  > 英伟达 Tegra X1 (16nm)  
+  > 4GB RAM  
+  > 32GB 存储
+
+- 任天堂 Switch 续航版
+  > 6.2' 720p LCD  
   > 英伟达 Tegra X1 (16nm)  
   > 4GB RAM  
   > 32GB 存储
