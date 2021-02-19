@@ -20,9 +20,11 @@ key: page-about
 ## 个人简介
 - 瞎折腾的理工科宅男
 - 模拟类游戏爱好者
-    - 主玩《坎巴拉太空计划》 (Kerbal Space Program)
-    - 正在等待《微软模拟飞行 2020》
-- 目前致力于教程制作
+  - ~~EVE Online 模拟社会也算模拟类~~
+  - 主玩《坎巴拉太空计划》(Kerbal Space Program)
+  - 偶尔玩玩《猎杀潜航3》(Silent Hunter 3)
+  - 正在等待《微软模拟飞行 2020》的 PMDG 737 NG3 插件
+- 曾经致力于教程制作，目前动力不足
 
 ## 各种账号
 - Bilibili [@Duck1998](https://space.bilibili.com/5245625/)
