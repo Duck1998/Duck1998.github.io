@@ -27,7 +27,7 @@ modify_date: 2021-02-20
   > 10.5' 1920x1280 触屏 N-Trig  
   > Intel Core m3-8100Y  
   > 2x 4GB LPDDR3-1866  
-  > 未知厂商 128GB
+  > 东芝 BG3 128GB
 
 - 树莓派 4
   > 博通 BCM2711  
