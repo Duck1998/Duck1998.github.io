@@ -34,11 +34,16 @@ modify_date: 2021-02-20
   > 4GB LPDDR4-3200  
   > 闪迪 Ultra 32GB C10 A1
 
-### 退役
-- 宏碁 显示器
-  > 19″ 1440x900  
-  > DVI、VGA
+- 联想 ThinkCentre M920t 台式机（工位）
+  > Intel Core i5-9500  
+  > 1x 8G DDR4-2666  
+  > 西部数据 1TB 7200RPM
 
+- 联想 ThinkVision T24A-10 显示器（工位）
+  > 23.8″ 1080p  
+  > HDMI 1.4、VGA
+
+### 退役
 - 微软 Surface Go
   > 10″ 1800x1200 触屏 N-Trig  
   > Intel Pentium 4415Y  
@@ -80,7 +85,7 @@ modify_date: 2021-02-20
   > Intel Core i7-4770  
   > AMD Radeon HD 7950  
   > 2x 4GB DDR3-1600  
-  > 三星 840EVO 120GB  
+  > 三星 840 EVO 120GB  
   > 希捷 1TB 7200RPM
 
 - 宏碁 AOD270
@@ -101,94 +106,85 @@ modify_date: 2021-02-20
   > 2x 2GB DDR2  
   > 160GB HDD
 
+- 宏碁 显示器
+  > 19″ 1440x900  
+  > DVI、VGA
+
 ## 移动设备
 ### 现役
 - 三星 Galaxy S20 5G
   > 6.2″ 1440x3200 AMOLED  
   > 高通 骁龙865  
-  > 12GB RAM  
-  > 128GB 存储
+  > 12GB RAM | 128GB 存储
 
 - 任天堂 Switch Lite
   > 5.5″ 720p LCD  
   > 英伟达 Tegra X1 (16nm)  
-  > 4GB RAM  
-  > 32GB 存储
+  > 4GB RAM | 32GB 存储
 
 - 任天堂 Switch 续航版
   > 6.2″ 720p LCD  
   > 英伟达 Tegra X1 (16nm)  
-  > 4GB RAM  
-  > 32GB 存储
+  > 4GB RAM | 32GB 存储
 
 ### 退役
 - 三星 Galaxy S10e
   > 5.8″ 1080x2280 AMOLED  
   > 高通 骁龙855  
-  > 6GB RAM  
-  > 128GB 存储
+  > 6GB RAM | 128GB 存储
 
 - 任天堂 Switch
   > 6.2″ 720p LCD  
   > 英伟达 Tegra X1  
-  > 4GB RAM  
-  > 32GB 存储
+  > 4GB RAM | 32GB 存储
 
 - Google Pixel 3
   > 5.45″ 1080x2160 POLED  
   > 高通 骁龙845  
-  > 4GB RAM  
-  > 128GB 存储
+  > 4GB RAM | 128GB 存储
 
 - Google Nexus 5X
   > 5.2″ 1080p LCD  
   > 高通 骁龙808  
-  > 2GB RAM  
-  > 32GB 存储
+  > 2GB RAM | 32GB 存储
 
 - Google Pixel
   > 5.0″ 1080p AMOLED  
   > 高通 骁龙821  
-  > 4GB RAM  
-  > 32GB 存储
+  > 4GB RAM | 32GB 存储
 
 - Google Nexus 5
   > 4.95″ 1080p LCD  
   > 高通 骁龙800  
-  > 2GB RAM  
-  > 16GB 存储
+  > 2GB RAM | 16GB 存储
 
 - 诺基亚 Lumia 636
   > 4.5″ 480x854 LCD  
   > 高通 骁龙400  
-  > 1GB RAM  
-  > 8GB 存储
+  > 1GB RAM | 8GB 存储
 
 - 三星 i9260
   > 4.65″ 720p AMOLED  
   > 德州仪器 OMAP4470  
-  > 1GB RAM  
-  > 16GB 存储
+  > 1GB RAM | 16GB 存储
 
 - 三星 P3110
   > 7.0″ 1024x600 LCD  
   > 德州仪器 OMAP4430  
-  > 1GB RAM  
-  > 8GB 存储
+  > 1GB RAM | 8GB 存储
 
 - 三星 i9008
   > 4.0″ 480x800 AMOLED  
   > 德州仪器 OMAP3630  
-  > 512MB RAM  
-  > 无内部存储
+  > 512MB RAM | 无内部存储
 
 ## 键盘与鼠标
 ### 现役
 - 罗技 G913 TKL 类茶轴
-- 罗技 K845 茶轴
+- 罗技 K845 茶轴（工位）
 - 罗技 G903 LIGHTSPEED（一代）
   - 罗技 G240 鼠标垫
-- 罗技 G102 LIGHTSYNC（二代）
+- 罗技 G102 LIGHTSYNC（二代，工位）
 - 微软 Microsoft Modern Mouse
 
 ### 退役
@@ -211,6 +207,48 @@ modify_date: 2021-02-20
 - 图马斯特 T.16000M 飞行摇杆 旧款（两台）
 - 赛钛客 Cyborg v.1 飞行摇杆
 - 北通 方向盘
+
+## 充电器
+### 现役
+- 小米 USB充电器30W快充版(1A1C)
+  > PD 3.0 (15V/2A) + PPS (5-11V/3A)
+
+- 紫米 六位延长线插座（含65W三口适配器）
+  > PD 3.0 (20V/3.25A) + PPS (5-20V/3A)
+
+### 退役
+- 小米 USB-C电源适配器(65W)（一代）
+  > PD 2.0 (20V/3.25A)
+
+- 紫米 无线充电器（WTX10）
+  > 支持三星7.5w无线快充协议
+
+## 充电宝
+### 现役
+- 紫米 10000mAh双向快充移动电源高配版
+  > A + C + Micro-B（输入）  
+  > PD 3.0 (9V/2A) | 205g 塑料+布面
+
+### 退役
+- 紫米 10000mAh双向快充移动电源
+  > A + C（仅输入）+ Micro-B（输入）  
+  > QC 2.0 (9V/1.6A) | 174g 塑料
+
+- 紫米 10号移动电源（20000mAh）
+  > 2xA + C  
+  > PD 2.0 (20V/2A) | 401g 金属
+
+- 小米 移动电源（5000mAh）
+  > A + Micro-B（输入）  
+  > 5V/2A | 156g 金属
+
+- 昂达 P40t Plus 移动电源（4000mAh）
+  > 内置 Micro-B 输出线  
+  > 5V/1A | 102g 塑料
+
+- ANKER PowerCore+ 20100(mAh)
+  > 2xA + C  
+  > 5V/3A | 454g 金属
 
 ## 耳机
 ### 现役
