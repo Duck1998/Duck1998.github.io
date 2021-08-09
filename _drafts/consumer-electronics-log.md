@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2021-07-23
+modify_date: 2021-08-09
 ---
 买！
 <!--more-->
@@ -10,18 +10,23 @@ modify_date: 2021-07-23
 ## 电脑
 ### 现役
 #### DIY 台式机
-- Dan Cases A4-SFX v4.1 黑色
-  - 猫头鹰 A9x14 黑色版（排气）
-  - 猫头鹰 NF-A9 黑色版（排气）
+- Dan Case A4-SFX v4.1 黑色
+  - 猫头鹰 A9x14 黑化版（排气）
+  - 猫头鹰 NF-A9 黑化版（排气）
   - 3D打印 显卡侧16mm加宽组件
-  - 3D打印 
+  - 3D打印 脚垫16mm加高组件
 - Intel Core i9-9900K ※
+  - 技嘉 Z390 I AORUS PRO WIFI Mini-ITX
   - Alpenfohn Black Ridge 散热器
-  - 猫头鹰 A9x14 黑色版（替换，进气）
-- 技嘉 Z390 I AORUS PRO WIFI Mini-ITX
-- 海盗船 LPX 2x 16GB DDR4-3600 CL18
+    - 猫头鹰 A9x14 黑化版（进气）
 - 华硕 NVIDIA GeForce RTX 3080 Ti TUF OC
+  - 3x 猫头鹰 A9x14 黑化版（进气）
+- 海盗船 复仇者 2x 16GB DDR4-3600 CL18
+- 三星 SM951 128GB ※
+- 三星 PM871a 1TB ※
 - 海盗船 SF750
+  - 海盗船 SF600 白金 2x PCIe供电线（1拖1）
+- ※ 复用自 [未来人类 蓝天 P775TM1-G 准系统](#未来人类-蓝天-p775tm1-g-准系统)
 
 #### 宏碁 XB273K S 显示器
 - 27″ 4K 144Hz 91% DCI-P3
@@ -30,96 +35,112 @@ modify_date: 2021-07-23
 - DP 1.4、HDMI 2.0
 - 4x USB 3.0、2x 4W 扬声器
 
-#### 未来人类 蓝天 P775TM1-G 准系统
-- 17.3″ 4K 100% Adobe RGB 软件G-Sync
-- Intel Core i9-9900K
-- 蓝天 NVIDIA GeForce RTX 2080
-- 2x 8GB DDR4-3000 ※
-- 三星 SM951 128GB ※
-- 三星 PM871a 1TB ※
-- ※ 复用自 [未来人类 蓝天 P775DM2-G 准系统](#未来人类-蓝天-p775dm2-g-准系统)
-
 #### 微软 Surface Go 2
 - 10.5″ 1920x1280 触屏 N-Trig
+  - Surface Pen 5代 亮铂金 ※
 - Intel Core m3-8100Y
 - 2x 4GB LPDDR3-1866
-- 东芝 BG3 128GB
+- 未知厂商 128GB
+- Surface Go Type Cover 1代 典雅黑 ※
+- ※ 复用自 [微软 Surface Go](#微软-surface-go)
 
 #### 树莓派 4B
 - 博通 BCM2711
 - 4GB LPDDR4-3200
 - 闪迪 Ultra 32GB C10 A1
+- 微雪 3.5″ 480x320 触屏 电阻式
+- 铝合金CNC被动散热外壳
 
 #### 联想 ThinkCentre M920t 台式机（工位）
 - Intel Core i5-9500
 - 1x 8G DDR4-2666
-- 西部数据 1TB 7200RPM
+- 西部数据 1TB 7200RPM HDD
 
 #### 联想 ThinkVision T24A-10 显示器（工位）
 - 23.8″ 1080p
 - HDMI 1.4、VGA
 
 ### 退役
+#### 未来人类 蓝天 P775TM1-G 准系统
+- 17.3″ 4K 100% Adobe RGB 软件G-Sync
+- Intel Core i9-9900K
+- 蓝天 NVIDIA GeForce RTX 2080（MXM接口）
+- 海盗船 复仇者 2x 8GB DDR4-3000 CL16 ※
+- 三星 SM951 128GB ※
+- 三星 PM871a 1TB ※
+- ※ 复用自 [未来人类 蓝天 P775DM2-G 准系统](#未来人类-蓝天-p775dm2-g-准系统)
+
 #### 微软 Surface Go
 - 10″ 1800x1200 触屏 N-Trig
+  - Surface Pen 5代 亮铂金
 - Intel Pentium 4415Y
 - 2x 4GB LPDDR3-1866
 - 东芝 BG3 128GB
+- Surface Go Type Cover 1代 典雅黑
 
 #### 树莓派 4B（2台）
 - 博通 BCM2711
 - 2GB LPDDR4-3200
 - 闪迪 Ultra 16GB C10 A1
+- 铝合金CNC被动散热外壳
 
-#### 惠普 Spectre x360 13 (2017/L)
+#### 惠普 Spectre x360 13 (2017/L) 黑金
 - 13.3″ 1080p 触屏 N-Trig
+  - 惠普 手写笔 黑色
 - Intel Core i5-8250U
 - 2x 4GB LPDDR3-2133
 - 英特尔 6000p 360GB
 
 #### 未来人类 蓝天 P775DM2-G 准系统
-- 17.3″ 1080p 75Hz G-Sync
-- Core i7-6700K
-- NVIDIA GeForce GTX 1070
-- 2x 8GB DDR4-3000
+- 17.3″ 1080p 75Hz 软件G-Sync
+- Intel Core i7-6700K
+- 蓝天 NVIDIA GeForce GTX 1070（MXM接口）
+- 海盗船 复仇者 2x 8GB DDR4-3000 CL16
 - 三星 SM951 128GB
 - 三星 PM871a 1TB
 
-#### 惠普 Spectre x360 13 (2016/L)
-- 13.3″ 1080p 触屏 N-Trig
+#### 惠普 Spectre x360 13 (2016/L) 银色
+- 13.3″ 1080p 触屏
 - Intel Core i5-7200U
 - 2x 4GB LPDDR3-1866
 - 三星 PM951 256GB
 
 #### 惠普 Elite x2 1011 G1
 - 11.6″ 1080p 触屏 Wacom
+  - 内置 无源手写笔
 - Intel Core M 5y71
 - 2x 4GB LPDDR3-1600
 - 闪迪 X300s 256GB
 
 #### DIY 台式机
 - Intel Core i7-4770
-- AMD Radeon HD 7950
-- 2x 4GB DDR3-1600
+  - 技嘉 Z87X-D3H
+  - Intel 原装散热器
+- HIS AMD Radeon HD 7950 IceQ Boost
+- 金士顿 HyperX 2x 4GB DDR3-1600
 - 三星 840 EVO 120GB
-- 希捷 1TB 7200RPM
+- 希捷 1TB 7200RPM HDD
+- 骨伽 GX600
 
 #### 宏碁 AOD270
 - 10.1″ 1024x600
 - Intel Atom N2600
 - 2GB DDR3-1066
-- 320GB 5400RPM
+- 320GB 5400RPM HDD
 
 #### 惠普 Mini 2140
 - 10.1″ 576p
 - Intel Atom N270
 - 2GB DDR2-800
-- 160GB 5400RPM
+- 160GB 5400RPM HDD
+- 选配6芯电池
 
 #### DIY 台式机
 - Intel Core 2 Duo E7200
-- ATI Radeon HD 3850
-- 2x 2GB DDR2
+  - 技嘉 主板
+  - Intel 原装散热器
+- 蓝宝石 ATI Radeon HD 3850 512MB
+- 2x 2GB DDR2-800
 - 160GB HDD
 
 #### 宏碁 显示器
