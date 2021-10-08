@@ -62,6 +62,7 @@ modify_date: 2021-08-09
 
 ### 退役
 #### 未来人类 蓝天 P775TM1-G 准系统
+- 3D打印 竖置支架
 - 17.3″ 4K 100% Adobe RGB 软件G-Sync
 - Intel Core i9-9900K
 - 蓝天 NVIDIA GeForce RTX 2080（MXM接口）
@@ -220,18 +221,18 @@ modify_date: 2021-08-09
 - 罗技 G913 TKL 类茶轴
 - 罗技 K845 茶轴（工位）
 - 罗技 G903 LIGHTSPEED（一代）
-- 罗技 G240 鼠标垫
+  - 罗技 G240 鼠标垫（裁剪）
 - 罗技 G102 LIGHTSYNC（二代，工位）
-- 微软 Microsoft Modern Mouse
+- 微软 Modern Mouse
 
 ### 退役
 - 罗技 G700s
-- 微软 Microsoft Designer Mouse
+- 微软 Designer Mouse
 
 ## 游戏控制器
 ### 现役
 - 微软 Xbox One S 手柄带无线适配器 黑色
-- Xbox One 同步充电套件
+  - Xbox One 同步充电套件
 - 任天堂 Nintendo Switch Pro Controller
 - 八位堂 SN30pro SNES配色版
 - 图马斯特 T.16000M 飞行摇杆 旧款
@@ -289,7 +290,7 @@ modify_date: 2021-08-09
 
 ## 耳机
 ### 现役
-#### 索尼 WF-1000XM4
+#### 索尼 WF-1000XM4 黑色
 - 分体式蓝牙降噪耳机
 - AAC、LDAC
 - 动圈
@@ -304,24 +305,33 @@ modify_date: 2021-08-09
 - 平板振膜
 
 ### 退役
-#### 索尼 WF-1000XM3
+#### 索尼 WF-1000XM3 黑色
+> 2019-2021年，已卖
 - 分体式蓝牙降噪耳机
 - AAC
 - 动圈
 
 #### 铁三角 E40
+> 2016-2018年，吃灰  
+> 第一条正经耳机，阻抗低很灵敏，尝试替换为蓝牙线但效果不佳
 - 入耳式有线耳机
 - 动铁
 
 ## 路由器
 ### 现役
 #### 华硕 RT-AC1750 B1（两台）
+> 2020年至今  
+> 通过有线连接组成Mesh网络，卧室千兆网络覆盖的终极解决方案
 - Wi-Fi 5
 - BCM4708C0@1Ghz
 - 256MB RAM
+- 1x 千兆WAN口、4x 千兆LAN口
 
 ### 退役
 #### 极路由4（两台）
+> 2016-2020年，已卖  
+> 年少无知被“智能”吸引，又不是不能用，家中与大学宿舍各一台
 - Wi-Fi 5
 - MT7621@800Mhz
 - 256MB RAM
+- 1x 千兆WAN口、3x 千兆LAN口
