@@ -82,3 +82,5 @@ GitHub 是几乎所有 KSP MOD 开发者选择公开自己源代码和配置文�
 链接：[百度网盘](https://pan.baidu.com/s/17Bd8RVRf4N6XdvaWVUqiXw) 提取码：wl99
 
 ![image](/images/reply-to-karrot-01.webp)
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv4896569){:.button.button--secondary.button--rounded}

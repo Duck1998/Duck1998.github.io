@@ -102,3 +102,5 @@ Steam 库目录\Kerbal Space Program\KSP.app
 
 ## 附录
 ![image](/images/ksp-stuck-fix-07.webp)
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv5013785){:.button.button--secondary.button--rounded}

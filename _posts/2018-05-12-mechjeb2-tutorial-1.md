@@ -1,19 +1,14 @@
 ---
 layout: article
 title: "MechJeb2 基础教程 #1 下载/安装/设置"
-article_header:
-  type: overlay
-  theme: dark
-  background_image:
-    gradient: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0))"
-    src: /images/mechjeb2-tutorial-1-00.webp
 tags: 坎巴拉太空计划 MechJeb2 教程 历史文章
 modify_date: 2018-07-14
 ---
-经过多年研究，我们的科学家依然无法解释为什么 Jebediah Kerman 是位如此优秀的飞行员。因此我们决定制作一份他大脑的机械拷贝，以协助驾驶我们的飞船。
+![image](/images/mechjeb2-tutorial-1-00.webp)
+> 经过多年研究，我们的科学家依然无法解释为什么 Jebediah Kerman 是位如此优秀的飞行员。因此我们决定制作一份他大脑的机械拷贝，以协助驾驶我们的飞船。
 <!--more-->
 
-本文发表于很久前，不宜参考。MechJeb2 现已自带汉化与「指令舱内置 MJ 脚本」。
+本文发表于很久前，请注意时效性
 {:.error}
 
 ## 简介
@@ -126,3 +121,5 @@ Toolbar 可实现的效果预览：
 感谢阅读《MechJeb2基础教程》系列第1期：下载/安装/设置  
 本期从最基础开始，接下来每期将专注于其中一个或多个功能，通过专栏图文与视频解说结合，尽我所能完整详细地介绍此功能的使用方法。  
 下一期将带来《MechJeb2基础教程》系列第2期：自动发射
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv471782){:.button.button--secondary.button--rounded}

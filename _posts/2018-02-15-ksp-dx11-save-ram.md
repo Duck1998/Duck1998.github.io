@@ -1,20 +1,17 @@
 ---
 layout: article
 title: "DX11：坎巴拉太空计划内存拯救者"
-article_header:
-  type: overlay
-  theme: light
-  background_image:
-    gradient: "linear-gradient(rgba(255,255,255, 0.5), rgba(255,255,255, 0))"
-    src: /images/ksp-dx11-save-ram-00.webp
 tags: 坎巴拉太空计划 教程 历史文章
 modify_date: 2018-04-03
 ---
-请问您今天要来点 Oops 吗？
+![image](/images/ksp-dx11-save-ram-21.webp)
+<center>请问您今天要来点 Oops 吗？</center>
 <!--more-->
 
-本文发表于很久前，不宜参考。KSP 1.8 已默认使用 DX11。
-{:.error}
+本文发表于很久前，请注意时效性
+{:.warning}
+KSP 1.8 版本起默认使用 DX11
+{:.success}
 
 ## 前言
 **《坎巴拉太空计划》**自从诞生之初，玩家们就一直在与高内存占用造成的游戏崩溃不断斗争。游戏崩溃可能发生在任何时候，它毫不留情，简单利落，只留下冰冷的崩溃对话框与屏幕前沮丧的玩家。
@@ -152,3 +149,5 @@ modify_date: 2018-04-03
 
 ## 附录
 ![image](/images/ksp-dx11-save-ram-21.webp)
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv225814){:.button.button--secondary.button--rounded}

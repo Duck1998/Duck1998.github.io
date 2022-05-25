@@ -1,13 +1,13 @@
 ---
 layout: article
 title: "操作系统实践 - 复制文件"
-tags: 操作系统实践 作业
+tags: 操作系统实践
 ---
 ## 实验要求
 完成一个目录复制命令 mycp ，包括目录下的文件和子目录。  
+<!--more-->
 需要实现 Windows 版本和 Linux 版本。  
 目录拷贝时需要支持多级目录（子目录）的拷贝，需要支持 Linux 里的 soft link 和 Windows 中的快捷方式拷贝。
-<!--more-->
 
 ### 提示
 #### Windows

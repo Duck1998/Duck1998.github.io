@@ -1,19 +1,14 @@
 ---
 layout: article
-title: "临时解决 BDAc v1.2.2.2 部件消失的 BUG"
-article_header:
-  type: overlay
-  theme: dark
-  background_image:
-    gradient: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0))"
-    src: /images/bda-bug-workaround-00.webp
-tags: 坎巴拉太空计划 BDA
+title: "分析并临时解决 BDAc v1.2.2.2 部件消失的 BUG"
+tags: 坎巴拉太空计划 BUG
 modify_date: 2018-11-27
 ---
-> 题图：Steam 集换式卡牌《Kerbal Recruit》
 <!--more-->
+![image](/images/bda-bug-workaround-00.webp)
+> 题图：Steam 集换式卡牌《Kerbal Recruit》
 
-此 BUG 已被修复。
+此 BUG 已被修复
 {:.success}
 
 ## 起因
@@ -137,3 +132,5 @@ v1.2.3: Thanks to SpannerMoneky, Gedas-S, DoctorDavinci, Kergan, Gomker, PapaJoe
 [5]:https://forum.kerbalspaceprogram.com/index.php?/topic/149840-discussion-community-category-kit/
 [6]:https://github.com/PapaJoesSoup/BDArmory/pull/585
 [7]:https://github.com/PapaJoesSoup/BDArmory/releases/tag/v1.2.3.0
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv1352640){:.button.button--secondary.button--rounded}

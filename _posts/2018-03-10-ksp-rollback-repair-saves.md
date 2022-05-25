@@ -1,19 +1,14 @@
 ---
 layout: article
 title: "降级坎巴拉太空计划并修复存档"
-article_header:
-  type: overlay
-  theme: dark
-  background_image:
-    gradient: "linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0))"
-    src: /images/ksp-rollback-repair-saves-00.webp
 tags: 坎巴拉太空计划 教程 历史文章
 modify_date: 2018-03-11
 ---
-我们能修好它！
+![image](/images/ksp-rollback-repair-saves-00.webp)
+<center>我们能修好它！</center>
 <!--more-->
 
-本文发表于较久前，实际情况可能已经改变。
+本文发表于很久前，请注意时效性
 {:.warning}
 
 ## 前言
@@ -82,3 +77,5 @@ B站up主[@M31的夜空](https://space.bilibili.com/2996571/)曾表示该选项�
 11. 旧存档修复完成，尽情享受吧  
    ![image](/images/ksp-rollback-repair-saves-12.webp)  
    ![image](/images/ksp-rollback-repair-saves-13.webp)
+
+[本文B站专栏版本](https://www.bilibili.com/read/cv280185){:.button.button--secondary.button--rounded}
