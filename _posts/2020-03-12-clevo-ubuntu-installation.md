@@ -7,7 +7,7 @@ modify_date: 2020-08-14
 只要搜索不滑坡，方法总比困难多。
 <!--more-->
 
-同样适用于 Ubuntu 20.04 LTS。
+本文同样适用于 Ubuntu 20.04 LTS
 {:.info}
 
 ## 环境

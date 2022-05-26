@@ -6,8 +6,7 @@ tags: 坎巴拉太空计划 FAQ
 「禁止拍屏，信息不足无法解答」
 <!--more-->
 
-本文为 [坎巴拉太空计划 FAQ](/archive.html?tag=FAQ) 的一部分。
-{:.info}
+[坎巴拉太空计划 FAQ 合集](/archive.html?tag=FAQ){:.button.button--success.button--rounded}
 
 ## 本文不适用范围
 1. 哀嚎「为什么游戏打不开」**但不提供任何有效信息**
