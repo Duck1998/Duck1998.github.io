@@ -190,6 +190,7 @@ exclude:
   - LICENSE
   - README-*.md
   - README.md
+  - jekyll_serve.bat
 
 defaults:
   - scope:
