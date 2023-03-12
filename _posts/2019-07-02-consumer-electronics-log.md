@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2023-01-17
+modify_date: 2023-03-12
 ---
 买！
 <!--more-->
@@ -245,6 +245,13 @@ modify_date: 2023-01-17
 - 英伟达 Tegra X1 (16nm)
 - 4GB RAM、32GB 存储
 - 闪迪 Ultra 64GB C10 A1
+
+#### 亚马逊 Kindle Paperwhite 3
+> 2017 年使用至今
+
+- 6″ 1448x1072 墨水屏
+- Freescale i.MX 6SoloLite
+- 512MB RAM、4GB 存储
 
 ### 退役
 #### 三星 Galaxy S10e
