@@ -12,7 +12,7 @@ modify_date: 2023-03-12
 #### LG 42C2 电视
 > 2022 年使用至今，桌面
 
-- **爱格升 LX显示器支架 黑色**
+- 爱格升 LX显示器支架 黑色
 - 42″ 4K WOLED
 - G-SYNC Compatible 40-120Hz
 - 4x HDMI 2.1 48Gbps
@@ -106,7 +106,8 @@ modify_date: 2023-03-12
 > 2019-2021 年，已卖
 
 - 3D打印 竖置支架
-- 17.3″ 4K 100% Adobe RGB 软件G-SYNC
+- 17.3″ 4K 100% Adobe RGB
+  - 「软」G-SYNC
 - Intel Core i9-9900K
 - 蓝天 NVIDIA GeForce RTX 2080（MXM接口）
 - 海盗船 复仇者 2x 8GB DDR4-3000 CL16 ※
@@ -152,7 +153,8 @@ modify_date: 2023-03-12
 #### 未来人类 蓝天 P775DM2-G 准系统
 > 2016-2019年，已卖
 
-- 17.3″ 1080p 75Hz 软件G-SYNC
+- 17.3″ 1080p 75Hz
+  - 「软」G-SYNC
 - Intel Core i7-6700K
 - 蓝天 NVIDIA GeForce GTX 1070（MXM接口）
 - 海盗船 复仇者 2x 8GB DDR4-3000 CL16
@@ -223,6 +225,14 @@ modify_date: 2023-03-12
 
 ## 移动设备
 ### 现役
+#### 任天堂 Switch 续航版
+> 2021 年使用至今
+
+- 6.2″ 720p LCD
+- 英伟达 Tegra X1 (16nm)
+- 4GB RAM、32GB 存储
+- 闪迪 Ultra 64GB C10 A1
+
 #### 三星 Galaxy S20 5G
 > 2020 年使用至今
 
@@ -234,14 +244,6 @@ modify_date: 2023-03-12
 > 2020 年使用至今
 
 - 5.5″ 720p LCD
-- 英伟达 Tegra X1 (16nm)
-- 4GB RAM、32GB 存储
-- 闪迪 Ultra 64GB C10 A1
-
-#### 任天堂 Switch 续航版
-> 2021 年使用至今
-
-- 6.2″ 720p LCD
 - 英伟达 Tegra X1 (16nm)
 - 4GB RAM、32GB 存储
 - 闪迪 Ultra 64GB C10 A1
@@ -378,7 +380,7 @@ modify_date: 2023-03-12
 - 图马斯特 TWCS 节流阀
   > 2020 年使用至今
 
-※ 复用自“微软 Xbox One S 手柄带无线适配器 黑色”
+※ 复用自「微软 Xbox One S 手柄带无线适配器 黑色」
 
 ### 退役
 - 图马斯特 T.16000M 飞行摇杆 旧款
@@ -457,7 +459,7 @@ modify_date: 2023-03-12
 - 205g 塑料+布面
 
 #### 松下 爱乐普 Pro 充电电池（2节）
-> 2016-2020 年，吃灰
+> 2016-2020 年，吃灰，其中一节已损坏
 
 - 2450mAh，镍氢
 - 附送标准充电器 BQ-CC50C
