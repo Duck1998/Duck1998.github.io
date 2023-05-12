@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2023-03-12
+modify_date: 2023-05-12
 ---
 买！
 <!--more-->
@@ -585,6 +585,8 @@ modify_date: 2023-03-12
 
 ## 杂项
 ### 现役
+- 闪迪 DDC3 64GB
+  > 2023 年使用至今
 - 联想 全高清广角摄像头（支持 Windows Hello）
   > 2020 年使用至今
 - 2x 小米 米家电子温湿度计Pro
