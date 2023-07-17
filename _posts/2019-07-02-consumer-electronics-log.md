@@ -2,7 +2,7 @@
 layout: article
 title: 消费性电子产品变迁记录
 tags: 记录
-modify_date: 2023-05-12
+modify_date: 2023-07-17
 ---
 买！
 <!--more-->
@@ -27,7 +27,7 @@ modify_date: 2023-05-12
 - DP 1.4、2x HDMI 2.0
 
 #### DIY 台式机
-> 2021 年使用至今
+> 2021 年使用至今，桌面
 
 - Dan Case A4-SFX v4.1 黑色
   - 猫头鹰 A9x14 黑化版
@@ -69,6 +69,11 @@ modify_date: 2023-05-12
 - 16GB LPDDR4X-4266
 - 铠侠 BG4 256GB
 - Surface Pro X Type Cover 典雅黑（无笔槽）
+
+#### 联想 ThinkCentre M920t 台式机
+> 2021 年使用至今，工位，仅记录加装硬件
+
+- 微星 NVIDIA GeForce GT 1030 AERO ITX 2GD4 OC V1
 
 ### 退役
 #### 宏碁 XB273K S 显示器
