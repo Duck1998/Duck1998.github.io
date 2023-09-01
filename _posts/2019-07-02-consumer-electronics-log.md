@@ -581,23 +581,32 @@ modify_date: 2023-07-17
 
 ## 路由器
 ### 现役
-#### 华硕 RT-AC1750 B1（两台，家中）
-> 2020 年使用至今
+#### 华硕 TUF小旋风Pro（TUF-AX4200Q，2台）
+> 2023 年使用至今
 
-- Wi-Fi 5
-- BCM4708C0@1Ghz
-- 256MB RAM
-- 1x 千兆 WAN + 4x 千兆 LAN
-- 1x USB 3.0 + 1x USB 2.0
+- Wi-Fi 6，5Ghz 3x3
+- MT7986AV，4x Cortex-A53@2Ghz
+- 512MB RAM
+- 1x 2.5G WAN + 1x 2.5G LAN + 4x 1G LAN
+- 1x USB 3.0
 
 ### 退役
-#### 极路由4（两台，家中/学校）
+#### 华硕 RT-AC1750 B1（2台）
+> 2020-2023 年，待卖
+
+- Wi-Fi 5，5Ghz 3x3
+- BCM4708C0，2x Cortex-A9@1Ghz
+- 256MB RAM
+- 1x 1G WAN + 4x 1G LAN
+- 1x USB 3.0 + 1x USB 2.0
+
+#### 极路由4（2台）
 > 2016-2020 年，已卖
 
 - Wi-Fi 5
-- MT7621@800Mhz
+- MT7621，2x MIPS@800Mhz
 - 256MB RAM
-- 1x 千兆 WAN + 3x 千兆 LAN
+- 1x 1G WAN + 3x 1G LAN
 - 1x USB 3.0 + 1x USB 2.0
 
 ## 杂项
