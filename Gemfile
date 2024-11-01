@@ -1,14 +1,8 @@
-source "https://gems.ruby-china.com"
+source 'https://rubygems.org/'
 
-# gem "jekyll-text-theme", path: "../"
-gem "jekyll-text-theme"
-gem "jekyll-remote-theme"
+# GitHub Page Jekyll 服务依赖项
+gem 'github-pages', group: :jekyll_plugins
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# Ruby 3.0 workaround
-gem "webrick"
-
-# Ruby 3.3 workaround
-gem "csv"
+# Windows 平台依赖项
+gem "tzinfo-data" if Gem.win_platform?
+gem 'wdm' if Gem.win_platform?
