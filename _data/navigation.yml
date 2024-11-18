@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       KSP FAQ
+      en      : &EN       Kerbal FAQ
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -14,23 +14,23 @@ header:
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       # @end locale config
-    url: /2019/08/31/tieba-FAQ-1908.html
+    url: /archive.html?tag=FAQ
   - titles:
       # @start locale config
-      en      : &EN       Electronics Log
+      en      : &EN       My Changelog
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  电子产品变迁记录
+      zh-Hans : &ZH_HANS  我的变更记录
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  電子產品變遷記錄
+      zh-Hant : &ZH_HANT  我的變更記錄
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       # @end locale config
-    url: /2019/07/02/consumer-electronics-log.html
+    url: /archive.html?tag=%E8%AE%B0%E5%BD%95  # 记录
   - titles:
       # @start locale config
       en      : &EN       Archive

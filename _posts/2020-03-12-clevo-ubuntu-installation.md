@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "蓝天砖头本 Ubuntu 19.10 历险记"
-tags: Ubuntu 记录
+tags: Ubuntu
 modify_date: 2020-08-14
 ---
 只要搜索不滑坡，方法总比困难多。
