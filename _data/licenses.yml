@@ -1,16 +1,24 @@
 CC-BY-4.0:
-  name: 署名 4.0 协议国际版
+  name: 署名 知识共享 4.0 协议
   url: https://creativecommons.org/licenses/by/4.0/deed.zh-hans
   image: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
 CC-BY-SA-4.0:
-  name: 署名-相同方式共享 4.0 协议国际版
+  name: 署名-相同方式共享 知识共享 4.0 协议
   url: https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans
   image: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
 CC-BY-NC-4.0:
-  name: 署名—非商业性使用 4.0 协议国际版
+  name: 署名—非商业性使用 知识共享 4.0 协议
   url: https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans
   image: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg
+CC-BY-NC-SA-4.0:
+  name: 署名—非商业性使用-相同方式共享 知识共享 4.0 协议
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
+  image: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg
 CC-BY-ND-4.0:
-  name: 署名—禁止演绎 4.0 协议国际版
+  name: 署名—禁止演绎 知识共享 4.0 协议
   url: https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans
   image: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nd.svg
+CC-BY-NC-ND-4.0:
+  name: 署名-非商业性使用-禁止演绎 知识共享 4.0 协议
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans
+  image: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg
