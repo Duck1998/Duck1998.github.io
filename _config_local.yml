@@ -195,13 +195,11 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: false
       license: true
       aside:
         toc: true
-      show_edit_on_github: false
-      show_subscribe: false
-      pageview: false
+      comment: false
+      lightbox: true
 
 
 ## => Plugins
@@ -211,4 +209,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
