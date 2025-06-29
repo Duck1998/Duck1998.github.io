@@ -18,17 +18,15 @@ titles:
 key: page-about
 ---
 ## 个人简介
-- 工科宅男，是社畜
+- 工科宅男，已经是社畜
 - 模拟类游戏爱好者
   - 坎巴拉太空计划
   - 微软模拟飞行
-  - 赛车模拟
-  - 潜艇模拟
+  - UBOAT、猎杀潜航
+  - 欧洲卡车模拟 2
 - 高性能 ITX 爱好者
 - 二合一笔记本爱好者
 
 ## 各种账号
 - Bilibili [@Duck1998](https://space.bilibili.com/5245625/)
-- 百度贴吧 [@tigerduck98](http://tieba.baidu.com/home/main?un=tigerduck98)
 - Steam [@Duck1998](https://steamcommunity.com/id/tigerduck98/)
-- 任天堂好友编号 **SW-7130-6189-1042**
