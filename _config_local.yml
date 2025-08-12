@@ -101,7 +101,7 @@ paginate_path: /page:num # don't change this unless for special need
 
 ## => Sources
 ##############################
-sources: bytecdn # bytecdn (default), unpkg
+sources: no_cdn # bytecdn (default), unpkg
 
 
 ## => Sharing

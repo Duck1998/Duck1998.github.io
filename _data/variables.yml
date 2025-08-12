@@ -62,3 +62,14 @@ sources:
     valine: 'https://unpkg.com/valine@1.4.16/dist/Valine.min.js'
     mathjax: 'https://www.unpkg.com/mathjax@2.7.9/MathJax.js?config=TeX-MML-AM_CHTML'
     mermaid: 'https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js'
+  no_cdn:
+      font_awesome: '/assets/no_cdn/all.css'
+      jquery: '/assets/no_cdn/jquery.min.js'
+      leancloud_js_sdk: '/assets/no_cdn/av-min.js'
+      chart: '/assets/no_cdn/Chart.min.js'
+      gitalk:
+        js: '/assets/no_cdn/gitalk.min.js'
+        css: '/assets/no_cdn/gitalk.css'  # 没有压缩版
+      valine: '/assets/no_cdn/Valine.min.js'
+      mathjax: '/assets/no_cdn/MathJax.js'
+      mermaid: '/assets/no_cdn/mermaid.min.js'
